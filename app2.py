@@ -34,7 +34,7 @@ load_dotenv(env_file_path)
 
 LANGCHAIN_TRACING_V2="true"
 LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-# LANGCHAIN_API_KEY="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"
+# LANGCHAIN_API_KEY=""
 LANGCHAIN_PROJECT="second-project"
 
 client = Groq()
